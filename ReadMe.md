@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Lavish Meena:
 I am a full-stack developer creating powerful web solutions for a smooth and intuitive user experience.
 
 
